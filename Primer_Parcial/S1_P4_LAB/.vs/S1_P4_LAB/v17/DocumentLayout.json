@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\S1_P4_LAB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12BEC974-C88D-4F9E-B1C5-42C09847BD46}|S1_P4_LAB\\S1_P4_LAB.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\primer_parcial\\s1_p4_lab\\s1_p4_lab\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12BEC974-C88D-4F9E-B1C5-42C09847BD46}|S1_P4_LAB\\S1_P4_LAB.csproj|solutionrelative:s1_p4_lab\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|S1_P4_LAB||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BEC974-C88D-4F9E-B1C5-42C09847BD46}|S1_P4_LAB\\S1_P4_LAB.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\primer_parcial\\s1_p4_lab\\s1_p4_lab\\views\\productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12BEC974-C88D-4F9E-B1C5-42C09847BD46}|S1_P4_LAB\\S1_P4_LAB.csproj|solutionrelative:s1_p4_lab\\views\\productos.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BEC974-C88D-4F9E-B1C5-42C09847BD46}|S1_P4_LAB\\S1_P4_LAB.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\primer_parcial\\s1_p4_lab\\s1_p4_lab\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BEC974-C88D-4F9E-B1C5-42C09847BD46}|S1_P4_LAB\\S1_P4_LAB.csproj|solutionrelative:s1_p4_lab\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BEC974-C88D-4F9E-B1C5-42C09847BD46}|S1_P4_LAB\\S1_P4_LAB.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\primer_parcial\\s1_p4_lab\\s1_p4_lab\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12BEC974-C88D-4F9E-B1C5-42C09847BD46}|S1_P4_LAB\\S1_P4_LAB.csproj|solutionrelative:s1_p4_lab\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12BEC974-C88D-4F9E-B1C5-42C09847BD46}|S1_P4_LAB\\S1_P4_LAB.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\primer_parcial\\s1_p4_lab\\s1_p4_lab\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|909d16b3-c8e8-43d1-a2b8-26ea0d4b6b57"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\S1_P4_LAB\\S1_P4_LAB\\Views\\Producto\\index.cshtml",
+              "RelativeDocumentMoniker": "S1_P4_LAB\\Views\\Producto\\index.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\S1_P4_LAB\\S1_P4_LAB\\Views\\Producto\\index.cshtml",
+              "RelativeToolTip": "S1_P4_LAB\\Views\\Producto\\index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T13:52:06.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "S1_P4_LAB",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\S1_P4_LAB\\S1_P4_LAB\\S1_P4_LAB.csproj",
+              "RelativeDocumentMoniker": "S1_P4_LAB\\S1_P4_LAB.csproj",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\S1_P4_LAB\\S1_P4_LAB\\S1_P4_LAB.csproj",
+              "RelativeToolTip": "S1_P4_LAB\\S1_P4_LAB.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-26T13:40:07.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Productos.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\S1_P4_LAB\\S1_P4_LAB\\Views\\Productos.cshtml",
+              "RelativeDocumentMoniker": "S1_P4_LAB\\Views\\Productos.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\S1_P4_LAB\\S1_P4_LAB\\Views\\Productos.cshtml",
+              "RelativeToolTip": "S1_P4_LAB\\Views\\Productos.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-26T12:58:47.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\S1_P4_LAB\\S1_P4_LAB\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "S1_P4_LAB\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\S1_P4_LAB\\S1_P4_LAB\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "S1_P4_LAB\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T12:47:05.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\S1_P4_LAB\\S1_P4_LAB\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "S1_P4_LAB\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\S1_P4_LAB\\S1_P4_LAB\\Models\\Producto.cs",
+              "RelativeToolTip": "S1_P4_LAB\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-26T12:41:14.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
