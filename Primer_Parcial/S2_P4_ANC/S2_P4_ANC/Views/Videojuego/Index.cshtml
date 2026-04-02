@@ -1,0 +1,27 @@
+﻿@model IEnumerable<S2_P4_ANC.Models.Videojuego>
+
+<h1>Videojuego</h1>
+<h2>Catalogo de videojuegos</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Titulo</th>
+            <th>Plataforma</th>
+            <th>Precio ($)</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach(var juego in Model)
+        {
+            <tr>
+                <td>@juego.id</td>
+                <td>@juego.titulo</td>
+                <td>@juego.plataforma</td>
+                <td>@juego.precio</td>
+            </tr>
+        }
+
+    </tbody>
+</table>

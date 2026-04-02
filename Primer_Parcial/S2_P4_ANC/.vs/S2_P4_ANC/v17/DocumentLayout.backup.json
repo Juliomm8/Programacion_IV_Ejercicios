@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\S2_P4_ANC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C82DD49-5086-429B-B447-B000337D8127}|S2_P4_ANC\\S2_P4_ANC.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\primer_parcial\\s2_p4_anc\\s2_p4_anc\\views\\videojuego\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C82DD49-5086-429B-B447-B000337D8127}|S2_P4_ANC\\S2_P4_ANC.csproj|solutionrelative:s2_p4_anc\\views\\videojuego\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C82DD49-5086-429B-B447-B000337D8127}|S2_P4_ANC\\S2_P4_ANC.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\primer_parcial\\s2_p4_anc\\s2_p4_anc\\models\\videojuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C82DD49-5086-429B-B447-B000337D8127}|S2_P4_ANC\\S2_P4_ANC.csproj|solutionrelative:s2_p4_anc\\models\\videojuego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C82DD49-5086-429B-B447-B000337D8127}|S2_P4_ANC\\S2_P4_ANC.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\primer_parcial\\s2_p4_anc\\s2_p4_anc\\controllers\\videojuegocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C82DD49-5086-429B-B447-B000337D8127}|S2_P4_ANC\\S2_P4_ANC.csproj|solutionrelative:s2_p4_anc\\controllers\\videojuegocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\S2_P4_ANC\\S2_P4_ANC\\Views\\Videojuego\\Index.cshtml",
+              "RelativeDocumentMoniker": "S2_P4_ANC\\Views\\Videojuego\\Index.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\S2_P4_ANC\\S2_P4_ANC\\Views\\Videojuego\\Index.cshtml*",
+              "RelativeToolTip": "S2_P4_ANC\\Views\\Videojuego\\Index.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-02T13:00:56.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VideojuegoController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\S2_P4_ANC\\S2_P4_ANC\\Controllers\\VideojuegoController.cs",
+              "RelativeDocumentMoniker": "S2_P4_ANC\\Controllers\\VideojuegoController.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\S2_P4_ANC\\S2_P4_ANC\\Controllers\\VideojuegoController.cs",
+              "RelativeToolTip": "S2_P4_ANC\\Controllers\\VideojuegoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T12:41:22.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Videojuego.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\S2_P4_ANC\\S2_P4_ANC\\Models\\Videojuego.cs",
+              "RelativeDocumentMoniker": "S2_P4_ANC\\Models\\Videojuego.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\S2_P4_ANC\\S2_P4_ANC\\Models\\Videojuego.cs",
+              "RelativeToolTip": "S2_P4_ANC\\Models\\Videojuego.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T12:37:18.418Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
