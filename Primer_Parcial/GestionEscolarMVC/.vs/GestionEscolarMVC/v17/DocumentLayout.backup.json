@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\gestionescolarmvc\\models\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|solutionrelative:gestionescolarmvc\\models\\universidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\primer_parcial\\gestionescolarmvc\\gestionescolarmvc\\controllers\\universidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|solutionrelative:gestionescolarmvc\\controllers\\universidadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\gestionescolarmvc\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|solutionrelative:gestionescolarmvc\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\primer_parcial\\gestionescolarmvc\\gestionescolarmvc\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|solutionrelative:gestionescolarmvc\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\primer_parcial\\gestionescolarmvc\\gestionescolarmvc\\migrations\\202604161315207_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|solutionrelative:gestionescolarmvc\\migrations\\202604161315207_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\gestionescolarmvc\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|solutionrelative:gestionescolarmvc\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\primer_parcial\\gestionescolarmvc\\gestionescolarmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|solutionrelative:gestionescolarmvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\gestionescolarmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|solutionrelative:gestionescolarmvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\gestionescolarmvc\\models\\escueladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|solutionrelative:gestionescolarmvc\\models\\escueladbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\primer_parcial\\gestionescolarmvc\\gestionescolarmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|solutionrelative:gestionescolarmvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\primer_parcial\\gestionescolarmvc\\gestionescolarmvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|solutionrelative:gestionescolarmvc\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\primer_parcial\\gestionescolarmvc\\gestionescolarmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|solutionrelative:gestionescolarmvc\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\gestionescolarmvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F37608BA-0F2E-4C25-9BC6-A3A55BF76464}|GestionEscolarMVC\\GestionEscolarMVC.csproj|solutionrelative:gestionescolarmvc\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UniversidadesController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Controllers\\UniversidadesController.cs",
+              "RelativeDocumentMoniker": "GestionEscolarMVC\\Controllers\\UniversidadesController.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Controllers\\UniversidadesController.cs",
+              "RelativeToolTip": "GestionEscolarMVC\\Controllers\\UniversidadesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T13:28:03.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "GestionEscolarMVC\\Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "GestionEscolarMVC\\Controllers\\EstudiantesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T13:25:25.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "GestionEscolarMVC\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "GestionEscolarMVC\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T12:46:55.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "GestionEscolarMVC\\Models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Models\\Estudiante.cs",
+              "RelativeToolTip": "GestionEscolarMVC\\Models\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T12:44:15.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Universidad.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Models\\Universidad.cs",
+              "RelativeDocumentMoniker": "GestionEscolarMVC\\Models\\Universidad.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Models\\Universidad.cs",
+              "RelativeToolTip": "GestionEscolarMVC\\Models\\Universidad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T12:44:30.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EscuelaDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Models\\EscuelaDbContext.cs",
+              "RelativeDocumentMoniker": "GestionEscolarMVC\\Models\\EscuelaDbContext.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Models\\EscuelaDbContext.cs",
+              "RelativeToolTip": "GestionEscolarMVC\\Models\\EscuelaDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T12:45:19.622Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "GestionEscolarMVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "GestionEscolarMVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T12:53:57.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "202604161315207_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Migrations\\202604161315207_Inicial.cs",
+              "RelativeDocumentMoniker": "GestionEscolarMVC\\Migrations\\202604161315207_Inicial.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Migrations\\202604161315207_Inicial.cs",
+              "RelativeToolTip": "GestionEscolarMVC\\Migrations\\202604161315207_Inicial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T13:15:24.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "GestionEscolarMVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "GestionEscolarMVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T12:51:57.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "GestionEscolarMVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "GestionEscolarMVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB0AAAAAAAAAAAD4vzIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T12:55:17.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "GestionEscolarMVC\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "GestionEscolarMVC\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T12:57:57.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "GestionEscolarMVC\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "GestionEscolarMVC\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-16T12:58:04.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Web.config",
+              "RelativeDocumentMoniker": "GestionEscolarMVC\\Web.config",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\GestionEscolarMVC\\GestionEscolarMVC\\Web.config",
+              "RelativeToolTip": "GestionEscolarMVC\\Web.config",
+              "ViewState": "AgIAADYAAAAAAAAAAAAswEYAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-16T12:45:34.266Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

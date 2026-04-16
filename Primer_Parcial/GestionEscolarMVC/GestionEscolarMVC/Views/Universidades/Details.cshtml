@@ -1,0 +1,50 @@
+﻿@model GestionEscolarMVC.Models.Universidad
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Universidad</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Ubicacion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Ubicacion)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Rector)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Rector)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.AñoFundacion)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.AñoFundacion)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.UniversidadId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
