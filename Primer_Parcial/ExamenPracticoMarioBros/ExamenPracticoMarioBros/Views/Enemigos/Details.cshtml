@@ -1,0 +1,50 @@
+﻿@model ExamenPracticoMarioBros.Models.Enemigo
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Enemigo</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Personaje.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Personaje.Nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreEnemigo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreEnemigo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Tipo)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Tipo)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NivelDificultad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NivelDificultad)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

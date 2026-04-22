@@ -1,0 +1,50 @@
+﻿@model ExamenPracticoSailorMoon.Models.SailorSenshi
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>SailorSenshi</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Nombre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Planeta)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Planeta)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NivelPoder)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NivelPoder)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.HabilidadEspecial)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.HabilidadEspecial)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

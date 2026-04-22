@@ -1,0 +1,50 @@
+﻿@model ExamenPracticoRoblox.Models.Item
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Item</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Avatar.NombreUsuario)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Avatar.NombreUsuario)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.NombreItem)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.NombreItem)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Categoria)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Categoria)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.PrecioRobux)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.PrecioRobux)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\examenpracticosailormoon\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|solutionrelative:examenpracticosailormoon\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\primer_parcial\\examenpracticosailormoon\\examenpracticosailormoon\\migrations\\202604222233191_inicial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|solutionrelative:examenpracticosailormoon\\migrations\\202604222233191_inicial1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\examenpracticosailormoon\\models\\sailormooncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|solutionrelative:examenpracticosailormoon\\models\\sailormooncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\examenpracticosailormoon\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|solutionrelative:examenpracticosailormoon\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\examenpracticosailormoon\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|solutionrelative:examenpracticosailormoon\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\examenpracticosailormoon\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|solutionrelative:examenpracticosailormoon\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\examenpracticosailormoon\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|solutionrelative:examenpracticosailormoon\\views\\home\\contact.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\examenpracticosailormoon\\models\\sailorsenshi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|solutionrelative:examenpracticosailormoon\\models\\sailorsenshi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\examenpracticosailormoon\\models\\aliado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|solutionrelative:examenpracticosailormoon\\models\\aliado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\examenpracticosailormoon\\controllers\\aliadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|solutionrelative:examenpracticosailormoon\\controllers\\aliadoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\examenpracticosailormoon\\controllers\\sailorsenshiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|solutionrelative:examenpracticosailormoon\\controllers\\sailorsenshiscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\examenpracticosailormoon\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|solutionrelative:examenpracticosailormoon\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\examenpracticosailormoon\\migrations\\202604222043539_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|solutionrelative:examenpracticosailormoon\\migrations\\202604222043539_inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\examenpracticosailormoon\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBEEC7B7-78E2-4299-B2E3-74328F52485E}|ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon.csproj|solutionrelative:examenpracticosailormoon\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "202604222233191_Inicial1.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Migrations\\202604222233191_Inicial1.cs",
+              "RelativeDocumentMoniker": "ExamenPracticoSailorMoon\\Migrations\\202604222233191_Inicial1.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Migrations\\202604222233191_Inicial1.cs",
+              "RelativeToolTip": "ExamenPracticoSailorMoon\\Migrations\\202604222233191_Inicial1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T22:33:22.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExamenPracticoSailorMoon\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Views\\Shared\\_Layout.cshtml*",
+              "RelativeToolTip": "ExamenPracticoSailorMoon\\Views\\Shared\\_Layout.cshtml*",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAAAFEAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T21:21:14.538Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Contact.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Views\\Home\\Contact.cshtml",
+              "RelativeDocumentMoniker": "ExamenPracticoSailorMoon\\Views\\Home\\Contact.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Views\\Home\\Contact.cshtml",
+              "RelativeToolTip": "ExamenPracticoSailorMoon\\Views\\Home\\Contact.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T21:20:31.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExamenPracticoSailorMoon\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExamenPracticoSailorMoon\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T21:05:47.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExamenPracticoSailorMoon\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ExamenPracticoSailorMoon\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T21:04:00.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SailorSenshisController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Controllers\\SailorSenshisController.cs",
+              "RelativeDocumentMoniker": "ExamenPracticoSailorMoon\\Controllers\\SailorSenshisController.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Controllers\\SailorSenshisController.cs",
+              "RelativeToolTip": "ExamenPracticoSailorMoon\\Controllers\\SailorSenshisController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T20:54:01.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AliadosController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Controllers\\AliadosController.cs",
+              "RelativeDocumentMoniker": "ExamenPracticoSailorMoon\\Controllers\\AliadosController.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Controllers\\AliadosController.cs",
+              "RelativeToolTip": "ExamenPracticoSailorMoon\\Controllers\\AliadosController.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T20:53:04.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "202604222043539_Inicial.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Migrations\\202604222043539_Inicial.cs",
+              "RelativeDocumentMoniker": "ExamenPracticoSailorMoon\\Migrations\\202604222043539_Inicial.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Migrations\\202604222043539_Inicial.cs",
+              "RelativeToolTip": "ExamenPracticoSailorMoon\\Migrations\\202604222043539_Inicial.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T20:44:39.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "ExamenPracticoSailorMoon\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "ExamenPracticoSailorMoon\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T20:41:20.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SailorMoonContext.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Models\\SailorMoonContext.cs",
+              "RelativeDocumentMoniker": "ExamenPracticoSailorMoon\\Models\\SailorMoonContext.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Models\\SailorMoonContext.cs",
+              "RelativeToolTip": "ExamenPracticoSailorMoon\\Models\\SailorMoonContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAuwA0AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T20:12:35.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "ExamenPracticoSailorMoon\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "ExamenPracticoSailorMoon\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-22T21:20:42.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Web.config",
+              "RelativeDocumentMoniker": "ExamenPracticoSailorMoon\\Web.config",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Web.config",
+              "RelativeToolTip": "ExamenPracticoSailorMoon\\Web.config",
+              "ViewState": "AgIAAC8AAAAAAAAAAADwv0AAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-04-22T20:09:45.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Aliado.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Models\\Aliado.cs",
+              "RelativeDocumentMoniker": "ExamenPracticoSailorMoon\\Models\\Aliado.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Models\\Aliado.cs",
+              "RelativeToolTip": "ExamenPracticoSailorMoon\\Models\\Aliado.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAqwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T20:01:49.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SailorSenshi.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Models\\SailorSenshi.cs",
+              "RelativeDocumentMoniker": "ExamenPracticoSailorMoon\\Models\\SailorSenshi.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Primer_Parcial\\ExamenPracticoSailorMoon\\ExamenPracticoSailorMoon\\Models\\SailorSenshi.cs",
+              "RelativeToolTip": "ExamenPracticoSailorMoon\\Models\\SailorSenshi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-22T19:23:14.318Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

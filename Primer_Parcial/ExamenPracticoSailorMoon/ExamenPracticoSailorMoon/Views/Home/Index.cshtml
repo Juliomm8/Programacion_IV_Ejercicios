@@ -1,0 +1,96 @@
+﻿@{
+    ViewBag.Title = "Panel de Control";
+}
+
+<div class="jumbotron p-4 p-md-5 text-white rounded bg-magical shadow-sm mb-4" style="background: linear-gradient(45deg, #ffb7d5, #b19cd9);">
+    <div class="col-md-8 px-0">
+        <h1 class="display-4 font-italic">Academia de Sailor Senshis</h1>
+        <p class="lead my-3">Gestiona a las guerreras y sus aliados del Reino de la Luna.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-12 mb-5">
+        <h3 class="text-pink"><i class="bi bi-star-fill"></i> Lista de Guerreras</h3>
+        <div class="table-responsive shadow-sm">
+            <table class="table table-hover bg-white">
+                <thead class="table-danger">
+                    <tr>
+                        <th>Nombre</th>
+                        <th>Planeta</th>
+                        <th>Poder</th>
+                        <th>Habilidad</th>
+                        <th class="text-center">Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var s in ViewBag.Senshis)
+                    {
+                        <tr>
+                            <td><strong>@s.Nombre</strong></td>
+                            <td>@s.Planeta</td>
+                            <td><span class="badge bg-info">@s.NivelPoder</span></td>
+                            <td>@s.HabilidadEspecial</td>
+                            <td class="text-center">
+                                @Html.ActionLink("✍️", "Edit", "SailorSenshis", new { id = s.Id }, new { @title = "Editar", @class = "text-decoration-none mx-1" })
+                                @Html.ActionLink("🔍", "Details", "SailorSenshis", new { id = s.Id }, new { @title = "Detalle", @class = "text-decoration-none mx-1" })
+                                @Html.ActionLink("❌", "Delete", "SailorSenshis", new { id = s.Id }, new { @title = "Borrar", @class = "text-decoration-none mx-1" })
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="col-12">
+        <h3 class="text-purple"><i class="bi bi-heart-fill"></i> Lista de Aliados</h3>
+        <div class="table-responsive shadow-sm">
+            <table class="table table-hover bg-white">
+                <thead class="table-primary">
+                    <tr>
+                        <th>Aliado</th>
+                        <th>Tipo</th>
+                        <th>Edad</th>
+                        <th>Senshi Asignada</th>
+                        <th class="text-center">Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var a in ViewBag.Aliados)
+                    {
+                        <tr>
+                            <td><strong>@a.NombreAliado</strong></td>
+                            <td>@a.Tipo</td>
+                            <td>@(a.Edad != null ? a.Edad.ToString() : "-")</td>
+                            <td><span class="badge bg-secondary">@a.SailorSenshi.Nombre</span></td>
+                            <td class="text-center">
+                                @Html.ActionLink("✍️", "Edit", "Aliados", new { id = a.Id }, new { @class = "text-decoration-none mx-1" })
+                                @Html.ActionLink("🔍", "Details", "Aliados", new { id = a.Id }, new { @class = "text-decoration-none mx-1" })
+                                @Html.ActionLink("❌", "Delete", "Aliados", new { id = a.Id }, new { @class = "text-decoration-none mx-1" })
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+
+<style>
+    .text-pink {
+        color: #d81b60;
+    }
+
+    .text-purple {
+        color: #6a1b9a;
+    }
+
+    .table-hover tbody tr:hover {
+        background-color: #fff0f5;
+    }
+
+    .badge {
+        font-size: 0.9em;
+    }
+</style>

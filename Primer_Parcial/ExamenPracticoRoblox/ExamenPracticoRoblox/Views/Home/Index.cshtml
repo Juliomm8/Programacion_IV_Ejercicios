@@ -1,0 +1,78 @@
+﻿@{
+    ViewBag.Title = "Panel de Servidor";
+}
+
+<div class="jumbotron p-4 p-md-5 rounded shadow-sm mb-4" style="background-color: #393b3d; border: 1px solid #555;">
+    <div class="col-md-8 px-0">
+        <h1 class="display-4 font-italic text-white" style="font-weight: 800;">Roblox Dashboard</h1>
+        <p class="lead my-3 text-light">Administra los avatares de los jugadores y sus items del inventario.</p>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-12 mb-5">
+        <h3 style="color: #ffffff; font-weight: bold;">👤 Lista de Avatars</h3>
+        <div class="table-responsive shadow-sm" style="border-radius: 8px; overflow: hidden;">
+            <table class="table table-dark table-hover mb-0" style="background-color: #2b2d31;">
+                <thead style="background-color: #111214;">
+                    <tr>
+                        <th>Usuario</th>
+                        <th>Juego</th>
+                        <th>Nivel</th>
+                        <th>Habilidad Especial</th>
+                        <th class="text-center">Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var a in ViewBag.Avatares)
+                    {
+                        <tr style="border-bottom: 1px solid #444;">
+                            <td><strong>@a.NombreUsuario</strong></td>
+                            <td>@a.Juego</td>
+                            <td><span class="badge bg-primary">Lvl @a.NivelExperiencia</span></td>
+                            <td>@a.HabilidadEspecial</td>
+                            <td class="text-center">
+                                @Html.ActionLink("✍️", "Edit", "Avatars", new { id = a.Id }, new { @title = "Editar", @class = "text-decoration-none mx-1" })
+                                @Html.ActionLink("🔍", "Details", "Avatars", new { id = a.Id }, new { @title = "Detalles", @class = "text-decoration-none mx-1" })
+                                @Html.ActionLink("❌", "Delete", "Avatars", new { id = a.Id }, new { @title = "Borrar", @class = "text-decoration-none mx-1" })
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+    <div class="col-12">
+        <h3 style="color: #ffffff; font-weight: bold;">🎒 Lista de Items</h3>
+        <div class="table-responsive shadow-sm" style="border-radius: 8px; overflow: hidden;">
+            <table class="table table-dark table-hover mb-0" style="background-color: #2b2d31;">
+                <thead style="background-color: #111214;">
+                    <tr>
+                        <th>Item</th>
+                        <th>Categoría</th>
+                        <th>Precio (R$)</th>
+                        <th>Avatar Propietario</th>
+                        <th class="text-center">Acciones</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var item in ViewBag.Items)
+                    {
+                        <tr style="border-bottom: 1px solid #444;">
+                            <td><strong>@item.NombreItem</strong></td>
+                            <td>@item.Categoria</td>
+                            <td><span class="badge" style="background-color: #00b06f; color: white;">R$ @item.PrecioRobux</span></td>
+                            <td><span class="badge bg-secondary">@item.Avatar.NombreUsuario</span></td>
+                            <td class="text-center">
+                                @Html.ActionLink("✍️", "Edit", "Items", new { id = item.Id }, new { @class = "text-decoration-none mx-1" })
+                                @Html.ActionLink("🔍", "Details", "Items", new { id = item.Id }, new { @class = "text-decoration-none mx-1" })
+                                @Html.ActionLink("❌", "Delete", "Items", new { id = item.Id }, new { @class = "text-decoration-none mx-1" })
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
