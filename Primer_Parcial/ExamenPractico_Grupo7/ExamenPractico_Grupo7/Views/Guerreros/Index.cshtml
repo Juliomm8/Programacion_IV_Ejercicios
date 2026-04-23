@@ -1,0 +1,51 @@
+﻿@model IEnumerable<ExamenPractico_Grupo7.Models.Guerrero>
+
+@{
+    ViewBag.Title = "Tabla de Guerrero Z";
+}
+
+<h2>Tabla de Guerrero Z</h2>
+
+<p>
+    @Html.ActionLink("Crear Nuevo", "Create")
+</p>
+<table class="tabla">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Raza)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.NivelPoder)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Transformacion)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Raza)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NivelPoder)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Transformacion)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.Id }) |
+            @Html.ActionLink("Detalle", "Details", new { id=item.Id }) |
+            @Html.ActionLink("Eliminar", "Delete", new { id=item.Id })
+        </td>
+    </tr>
+}
+
+</table>
