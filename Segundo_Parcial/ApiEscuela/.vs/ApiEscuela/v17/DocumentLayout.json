@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Segundo_Parcial\\ApiEscuela\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BF0B5F-3E18-4A8E-ADCA-0A97AC428837}|ApiEscuela\\ApiEscuela.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\segundo_parcial\\apiescuela\\apiescuela\\controllers\\facultadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BF0B5F-3E18-4A8E-ADCA-0A97AC428837}|ApiEscuela\\ApiEscuela.csproj|solutionrelative:apiescuela\\controllers\\facultadescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BF0B5F-3E18-4A8E-ADCA-0A97AC428837}|ApiEscuela\\ApiEscuela.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\segundo_parcial\\apiescuela\\apiescuela\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BF0B5F-3E18-4A8E-ADCA-0A97AC428837}|ApiEscuela\\ApiEscuela.csproj|solutionrelative:apiescuela\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BF0B5F-3E18-4A8E-ADCA-0A97AC428837}|ApiEscuela\\ApiEscuela.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\segundo_parcial\\apiescuela\\apiescuela\\models\\escuelacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BF0B5F-3E18-4A8E-ADCA-0A97AC428837}|ApiEscuela\\ApiEscuela.csproj|solutionrelative:apiescuela\\models\\escuelacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BF0B5F-3E18-4A8E-ADCA-0A97AC428837}|ApiEscuela\\ApiEscuela.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\segundo_parcial\\apiescuela\\apiescuela\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BF0B5F-3E18-4A8E-ADCA-0A97AC428837}|ApiEscuela\\ApiEscuela.csproj|solutionrelative:apiescuela\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BF0B5F-3E18-4A8E-ADCA-0A97AC428837}|ApiEscuela\\ApiEscuela.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\segundo_parcial\\apiescuela\\apiescuela\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BF0B5F-3E18-4A8E-ADCA-0A97AC428837}|ApiEscuela\\ApiEscuela.csproj|solutionrelative:apiescuela\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BF0B5F-3E18-4A8E-ADCA-0A97AC428837}|ApiEscuela\\ApiEscuela.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\segundo_parcial\\apiescuela\\apiescuela\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BF0B5F-3E18-4A8E-ADCA-0A97AC428837}|ApiEscuela\\ApiEscuela.csproj|solutionrelative:apiescuela\\models\\estudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BF0B5F-3E18-4A8E-ADCA-0A97AC428837}|ApiEscuela\\ApiEscuela.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\segundo_parcial\\apiescuela\\apiescuela\\models\\facultades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BF0B5F-3E18-4A8E-ADCA-0A97AC428837}|ApiEscuela\\ApiEscuela.csproj|solutionrelative:apiescuela\\models\\facultades.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BF0B5F-3E18-4A8E-ADCA-0A97AC428837}|ApiEscuela\\ApiEscuela.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\segundo_parcial\\apiescuela\\apiescuela\\models\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BF0B5F-3E18-4A8E-ADCA-0A97AC428837}|ApiEscuela\\ApiEscuela.csproj|solutionrelative:apiescuela\\models\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BF0B5F-3E18-4A8E-ADCA-0A97AC428837}|ApiEscuela\\ApiEscuela.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\segundo_parcial\\apiescuela\\apiescuela\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6BF0B5F-3E18-4A8E-ADCA-0A97AC428837}|ApiEscuela\\ApiEscuela.csproj|solutionrelative:apiescuela\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A6BF0B5F-3E18-4A8E-ADCA-0A97AC428837}|ApiEscuela\\ApiEscuela.csproj|c:\\users\\julio\\universidad\\semestre_05\\programacion_iv\\segundo_parcial\\apiescuela\\apiescuela\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A6BF0B5F-3E18-4A8E-ADCA-0A97AC428837}|ApiEscuela\\ApiEscuela.csproj|solutionrelative:apiescuela\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FacultadesController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Segundo_Parcial\\ApiEscuela\\ApiEscuela\\Controllers\\FacultadesController.cs",
+              "RelativeDocumentMoniker": "ApiEscuela\\Controllers\\FacultadesController.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Segundo_Parcial\\ApiEscuela\\ApiEscuela\\Controllers\\FacultadesController.cs",
+              "RelativeToolTip": "ApiEscuela\\Controllers\\FacultadesController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAwDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:49:54.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Segundo_Parcial\\ApiEscuela\\ApiEscuela\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ApiEscuela\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Segundo_Parcial\\ApiEscuela\\ApiEscuela\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ApiEscuela\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:47:30.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Segundo_Parcial\\ApiEscuela\\ApiEscuela\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "ApiEscuela\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Segundo_Parcial\\ApiEscuela\\ApiEscuela\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "ApiEscuela\\Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:47:25.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Facultades.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Segundo_Parcial\\ApiEscuela\\ApiEscuela\\Models\\Facultades.cs",
+              "RelativeDocumentMoniker": "ApiEscuela\\Models\\Facultades.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Segundo_Parcial\\ApiEscuela\\ApiEscuela\\Models\\Facultades.cs",
+              "RelativeToolTip": "ApiEscuela\\Models\\Facultades.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:45:13.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Segundo_Parcial\\ApiEscuela\\ApiEscuela\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "ApiEscuela\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Segundo_Parcial\\ApiEscuela\\ApiEscuela\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "ApiEscuela\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:36:28.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Segundo_Parcial\\ApiEscuela\\ApiEscuela\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "ApiEscuela\\Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Segundo_Parcial\\ApiEscuela\\ApiEscuela\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "ApiEscuela\\Controllers\\EstudiantesController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA5wDQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T13:01:29.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Segundo_Parcial\\ApiEscuela\\ApiEscuela\\Web.config",
+              "RelativeDocumentMoniker": "ApiEscuela\\Web.config",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Segundo_Parcial\\ApiEscuela\\ApiEscuela\\Web.config",
+              "RelativeToolTip": "ApiEscuela\\Web.config",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAFEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-05-07T12:48:17.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EscuelaContext.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Segundo_Parcial\\ApiEscuela\\ApiEscuela\\Models\\EscuelaContext.cs",
+              "RelativeDocumentMoniker": "ApiEscuela\\Models\\EscuelaContext.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Segundo_Parcial\\ApiEscuela\\ApiEscuela\\Models\\EscuelaContext.cs",
+              "RelativeToolTip": "ApiEscuela\\Models\\EscuelaContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:22:36.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Materia.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Segundo_Parcial\\ApiEscuela\\ApiEscuela\\Models\\Materia.cs",
+              "RelativeDocumentMoniker": "ApiEscuela\\Models\\Materia.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Segundo_Parcial\\ApiEscuela\\ApiEscuela\\Models\\Materia.cs",
+              "RelativeToolTip": "ApiEscuela\\Models\\Materia.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:21:41.952Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Estudiante.cs",
+              "DocumentMoniker": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Segundo_Parcial\\ApiEscuela\\ApiEscuela\\Models\\Estudiante.cs",
+              "RelativeDocumentMoniker": "ApiEscuela\\Models\\Estudiante.cs",
+              "ToolTip": "C:\\Users\\julio\\Universidad\\Semestre_05\\Programacion_IV\\Segundo_Parcial\\ApiEscuela\\ApiEscuela\\Models\\Estudiante.cs",
+              "RelativeToolTip": "ApiEscuela\\Models\\Estudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-07T12:20:17.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
