@@ -1,0 +1,8 @@
+﻿<maui:MauiWinUIApplication
+    x:Class="S8_P4_CalculadoraApp.WinUI.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:maui="using:Microsoft.Maui"
+    xmlns:local="using:S8_P4_CalculadoraApp.WinUI">
+
+</maui:MauiWinUIApplication>

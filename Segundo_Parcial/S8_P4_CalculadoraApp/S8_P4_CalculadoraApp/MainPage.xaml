@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="S8_P4_CalculadoraApp.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="10">
+
+            <Label Text="Calculadora" FontSize="22"/>
+
+            <Entry x:Name="txtNum1"
+                Placeholder="Número 1"
+                Keyboard="Numeric"/>
+
+            <Entry x:Name="txtNum2"
+                Placeholder="Número 2"
+                Keyboard="Numeric"/>
+
+            <HorizontalStackLayout HorizontalOptions="Fill">
+                <Button Text="+" Clicked="OnOperacion"/>
+                <Button Text="-" Clicked="OnOperacion"/>
+                <Button Text="*" Clicked="OnOperacion"/>
+                <Button Text="/" Clicked="OnOperacion"/>
+            </HorizontalStackLayout>
+
+            <Label x:Name="lblResultado"/>
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

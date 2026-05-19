@@ -1,0 +1,51 @@
+﻿@model ConsumoApiIA_MVC.Models.PokemonInfo
+
+@{
+    ViewBag.Title = "Buscador de Pokedex";
+}
+
+<div class="container mt-4">
+    <h2 class="text-center text-primary">Buscador PokéAPI</h2>
+
+    <div class="row justify-content-center mt-4">
+        <div class="col-md-6">
+            @using (Html.BeginForm("Index", "Pokemon", FormMethod.Post))
+            {
+                <div class="input-group mb-3">
+                    <input type="text" name="nombrePokemon" class="form-control" placeholder="Escribe un nombre (ej: lucario) o número (ej: 448)" required>
+                    <div class="input-group-append">
+                        <button class="btn btn-primary" type="submit">Buscar</button>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+
+    @if (ViewBag.Error != null)
+    {
+        <div class="alert alert-danger text-center">
+            @ViewBag.Error
+        </div>
+    }
+
+    @if (Model != null)
+    {
+        <div class="row justify-content-center mt-4">
+            <div class="col-md-4 text-center">
+                <div class="card" style="box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+                    <img class="card-img-top mx-auto mt-3" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/@(Model.Id).png" alt="@Model.Name" style="width: 200px;">
+
+                    <div class="card-body">
+                        <h3 class="card-title text-capitalize font-weight-bold">@Model.Name (#@Model.Id)</h3>
+                        <hr />
+                        <p class="card-text text-left">
+                            <strong>Experiencia Base:</strong> @Model.BaseExperience exp <br />
+                            <strong>Altura:</strong> @Model.Height decímetros <br />
+                            <strong>Peso:</strong> @Model.Weight hectogramos
+                        </p>
+                    </div>
+                </div>  
+            </div>
+        </div>
+    }
+</div>
