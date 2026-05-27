@@ -1,0 +1,27 @@
+﻿@model IEnumerable<DigiApiWebApp.Models.Digimon>
+
+<h2>Lista de Digimon</h2>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nombre</th>
+            <th>Imagen</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var d in Model)
+        {
+            <tr>
+                <td>@d.id</td>
+                <td>@d.name</td>
+                <td><img src="@d.image" width="60" /></td>
+                <td>
+                    @Html.ActionLink("Ver", "Details", new { name = d.name })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

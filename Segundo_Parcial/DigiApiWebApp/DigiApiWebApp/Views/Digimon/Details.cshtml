@@ -1,0 +1,11 @@
+﻿@model DigiApiWebApp.Models.Digimon
+
+<h2>@Model.name</h2>
+
+<img src="@Model.image" width="200" />
+
+<p><strong>ID:</strong> @Model.id</p>
+
+<p>
+    @Html.ActionLink("← Volver", "Index")
+</p>
