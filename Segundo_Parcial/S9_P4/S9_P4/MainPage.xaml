@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="S9_P4.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout Padding="20" Spacing="10">
+            <Label Text="Generador de Series"
+                   FontSize="24"
+                   HorizontalOptions="Center"/>
+
+            <Entry x:Name="txtNumero" 
+                   Placeholder="Ingrese un numero" 
+                   Keyboard="Numeric"/>
+            <HorizontalStackLayout Spacing="10">
+                <Button Text="Fibonacci" 
+                        Clicked="OnFibonacci"/>
+                <Button Text="Primos" 
+                        Clicked="OnPrimo"/>
+            </HorizontalStackLayout>
+            <HorizontalStackLayout Spacing="10">
+                <Button Text="Pares" 
+                        Clicked="OnPares"/>
+                <Button Text="Impares" 
+                        Clicked="OnImpares"/>
+            </HorizontalStackLayout>
+            <Label x:Name="lblResultado" 
+                   FontSize="18" 
+                   FontAttributes="Bold"
+                   
+            <ListView x:Name="lstResultados" 
+                      HeightRequest="600"/>
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>
