@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37301.10 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DragonBallCatalog", "DragonBallCatalog\DragonBallCatalog.csproj", "{F50EB78F-8263-4EC5-851B-06C1DE092691}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F50EB78F-8263-4EC5-851B-06C1DE092691}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F50EB78F-8263-4EC5-851B-06C1DE092691}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F50EB78F-8263-4EC5-851B-06C1DE092691}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F50EB78F-8263-4EC5-851B-06C1DE092691}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE3B49A3-8245-4253-A467-1BB03EFD1903}
+	EndGlobalSection
+EndGlobal
