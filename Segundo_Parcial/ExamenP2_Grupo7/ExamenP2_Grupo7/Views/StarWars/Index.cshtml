@@ -1,0 +1,128 @@
+﻿@model IEnumerable<StarWarsApiWebApp.Models.Personaje>
+
+<style>
+    body {
+        background: #050505;
+    }
+
+    .sw-container {
+        min-height: 80vh;
+        padding: 40px 20px;
+        background: radial-gradient(circle at top, rgba(255, 232, 31, 0.15), transparent 35%), linear-gradient(180deg, #050505 0%, #111827 100%);
+        color: white;
+        border-radius: 18px;
+        margin-top: 25px;
+        box-shadow: 0 0 25px rgba(255, 232, 31, 0.15);
+    }
+
+    .sw-title {
+        text-align: center;
+        color: #ffe81f;
+        font-weight: bold;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        margin-bottom: 10px;
+        text-shadow: 0 0 12px rgba(255, 232, 31, 0.8);
+    }
+
+    .sw-subtitle {
+        text-align: center;
+        color: #d1d5db;
+        margin-bottom: 35px;
+    }
+
+    .card-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+        gap: 20px;
+    }
+
+    .sw-card {
+        background: rgba(17, 24, 39, 0.95);
+        border: 1px solid rgba(255, 232, 31, 0.35);
+        border-radius: 18px;
+        padding: 22px;
+        transition: 0.3s;
+        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.45);
+    }
+
+        .sw-card:hover {
+            transform: translateY(-6px);
+            border-color: #ffe81f;
+            box-shadow: 0 0 22px rgba(255, 232, 31, 0.35);
+        }
+
+    .sw-avatar {
+        width: 65px;
+        height: 65px;
+        border-radius: 50%;
+        background: linear-gradient(135deg, #ffe81f, #f59e0b);
+        color: #111827;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 28px;
+        font-weight: bold;
+        margin-bottom: 15px;
+    }
+
+    .sw-name {
+        color: #ffffff;
+        font-size: 20px;
+        font-weight: bold;
+        margin-bottom: 15px;
+    }
+
+    .sw-info {
+        color: #d1d5db;
+        margin-bottom: 6px;
+    }
+
+        .sw-info strong {
+            color: #ffe81f;
+        }
+
+    .sw-btn {
+        display: inline-block;
+        margin-top: 15px;
+        padding: 9px 18px;
+        border-radius: 25px;
+        background: #ffe81f;
+        color: #111827;
+        font-weight: bold;
+        text-decoration: none;
+        transition: 0.3s;
+    }
+
+        .sw-btn:hover {
+            background: #ffffff;
+            color: #000000;
+            text-decoration: none;
+        }
+</style>
+
+<div class="sw-container">
+    <h1 class="sw-title">Personajes de Star Wars</h1>
+    <p class="sw-subtitle">
+        Información obtenida desde Star Wars API mediante consumo de un endpoint REST.
+    </p>
+
+    <div class="card-grid">
+        @foreach (var p in Model)
+        {
+            <div class="sw-card">
+                <div class="sw-avatar">
+                    @p.name.Substring(0, 1)
+                </div>
+
+                <div class="sw-name">@p.name</div>
+
+                <p class="sw-info"><strong>Altura:</strong> @p.height cm</p>
+                <p class="sw-info"><strong>Peso:</strong> @p.mass kg</p>
+                <p class="sw-info"><strong>Género:</strong> @p.gender</p>
+
+                @Html.ActionLink("Ver detalles", "Details", new { name = p.name }, new { @class = "sw-btn" })
+            </div>
+        }
+    </div>
+</div>
