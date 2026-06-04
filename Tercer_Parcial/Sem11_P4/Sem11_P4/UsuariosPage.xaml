@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Sem11_P4.UsuariosPage"
+             Title="UsuariosPage">
+    <VerticalStackLayout>
+        <Label 
+            Text="Lista de usuarios"
+            FontSize="20"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+        <CollectionView x:Name="UsuariosList">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <StackLayout Padding="5">
+                        <Label Text="{Binding name}" FontAttributes="Bold"/>
+                        <Label Text="{Binding email}" FontSize="12" />
+                    </StackLayout>
+
+                </DataTemplate>
+             </CollectionView.ItemTemplate>
+        </CollectionView>
+                        
+    </VerticalStackLayout>
+</ContentPage>
