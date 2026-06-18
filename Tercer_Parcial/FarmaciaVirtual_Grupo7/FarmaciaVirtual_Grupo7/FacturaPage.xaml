@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FarmaciaVirtual_Grupo7.FacturaPage"
+             Title="Factura"
+             BackgroundColor="#F4F7F5"
+             Shell.BackgroundColor="#0F766E"
+             Shell.ForegroundColor="White"
+             Shell.TitleColor="White">
+    <ScrollView>
+        <StackLayout Padding="20" Spacing="15">
+
+            <Frame BackgroundColor="#0F766E">
+                <StackLayout>
+                    <Label Text="FARMACIA VIRTUAL GRUPO 7"
+                           FontSize="20"
+                           FontAttributes="Bold"
+                           TextColor="White"
+                           HorizontalOptions="Center" />
+                    <Label Text="FACTURA DE VENTA"
+                           FontSize="16"
+                           TextColor="White"
+                           HorizontalOptions="Center" />
+                </StackLayout>
+            </Frame>
+
+            <Grid ColumnDefinitions="*,*">
+                <Label Grid.Column="0"
+                       x:Name="lblNumero"
+                       Text="Número: "
+                       FontSize="14"
+                       FontAttributes="Bold" />
+                <Label Grid.Column="1"
+                       x:Name="lblFecha"
+                       Text="Fecha: "
+                       FontSize="14"
+                       FontAttributes="Bold" />
+            </Grid>
+
+            <Label Text="DETALLE:"
+                   FontSize="16"
+                   FontAttributes="Bold"
+                   TextColor="#0F766E" />
+
+            <CollectionView x:Name="DetalleCollectionView">
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Padding="5">
+                            <Frame BackgroundColor="#FFFFFF">
+                                <StackLayout>
+                                    <Grid ColumnDefinitions="*,Auto">
+                                        <Label Grid.Column="0"
+                                               Text="{Binding NombreMedicina}"
+                                               FontSize="14"
+                                               FontAttributes="Bold" />
+                                        <Label Grid.Column="1"
+                                               Text="{Binding Precio, StringFormat='${0:F2}'}"
+                                               FontSize="14" />
+                                    </Grid>
+                                    <Grid ColumnDefinitions="*,Auto">
+                                        <Label Grid.Column="0"
+                                               Text="{Binding Cantidad, StringFormat='Cantidad: {0}'}"
+                                               FontSize="12" />
+                                        <Label Grid.Column="1"
+                                               Text="{Binding Subtotal, StringFormat='${0:F2}'}"
+                                               FontSize="14"
+                                               FontAttributes="Bold"
+                                               TextColor="#0F766E" />
+                                    </Grid>
+                                </StackLayout>
+                            </Frame>
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+
+            <Frame BackgroundColor="#ECFDF5">
+                <StackLayout Spacing="7">
+                    <Grid ColumnDefinitions="*,Auto">
+                        <Label Grid.Column="0" Text="Subtotal:" FontSize="14" />
+                        <Label Grid.Column="1"
+                               x:Name="lblSubtotal"
+                               FontSize="14"
+                               FontAttributes="Bold" />
+                    </Grid>
+
+                    <Grid ColumnDefinitions="*,Auto">
+                        <Label Grid.Column="0" Text="Descuento (5%):" FontSize="14" />
+                        <Label Grid.Column="1"
+                               x:Name="lblDescuento"
+                               FontSize="14"
+                               FontAttributes="Bold"
+                               TextColor="#B91C1C" />
+                    </Grid>
+
+                    <Grid ColumnDefinitions="*,Auto">
+                        <Label Grid.Column="0" Text="IVA (12%):" FontSize="14" />
+                        <Label Grid.Column="1"
+                               x:Name="lblImpuesto"
+                               FontSize="14"
+                               FontAttributes="Bold" />
+                    </Grid>
+
+                    <BoxView HeightRequest="1" BackgroundColor="#94A3B8" />
+
+                    <Grid ColumnDefinitions="*,Auto">
+                        <Label Grid.Column="0"
+                               Text="TOTAL:"
+                               FontSize="18"
+                               FontAttributes="Bold" />
+                        <Label Grid.Column="1"
+                               x:Name="lblTotal"
+                               FontSize="18"
+                               FontAttributes="Bold"
+                               TextColor="#0F766E" />
+                    </Grid>
+                </StackLayout>
+            </Frame>
+
+            <StackLayout Orientation="Horizontal"
+                         HorizontalOptions="Center"
+                         Spacing="10">
+                <Button Text="NUEVA COMPRA"
+                        BackgroundColor="#0F766E"
+                        TextColor="White"
+                        WidthRequest="140"
+                        Clicked="OnNuevaCompraClicked" />
+                <Button Text="SALIR"
+                        BackgroundColor="#DC2626"
+                        TextColor="White"
+                        WidthRequest="100"
+                        Clicked="OnSalirClicked" />
+            </StackLayout>
+
+        </StackLayout>
+    </ScrollView>
+</ContentPage>
